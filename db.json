@@ -1,3 +1,5 @@
 {
-  "slack/events": ""
+  "slack/events": {
+    "response": "ok"
+  }
 }
